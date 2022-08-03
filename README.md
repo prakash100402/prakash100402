@@ -1,4 +1,4 @@
-![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-51013193fe.gif)
+![ezgif com-gif-maker (1) (1) (1)](https://user-images.githubusercontent.com/78205194/182679081-41feed22-0a39-4a37-b241-1f5f13b19add.gif)
 
 <h1 align="center">Hi 👋, I'm Prakash Kumar Sah </h1>
 
