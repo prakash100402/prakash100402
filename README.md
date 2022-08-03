@@ -13,6 +13,8 @@ Programming:
 
 Development:
 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -28,3 +30,8 @@ Development:
 
 
 Thank you for checking out my profile and reading through all of that. Have a wonderful day ahead! -Prakash
+
+
+
+ 
+
