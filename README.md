@@ -1,3 +1,7 @@
+![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-51013193fe.gif)
+
+<h1 align="center">Hi 👋, I'm Prakash Kumar Sah </h1>
+
 I'm a simple guy with a passion for development and design. I enjoy creating things that make a difference.
 
 
