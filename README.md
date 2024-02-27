@@ -38,19 +38,14 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=prakash100402&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prakash100402&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash100402&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=prakash100402&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br></div>
-    
+    <br><br>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash100402&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     <br></div>
-    
+    <br><br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash100402&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></div>
 
