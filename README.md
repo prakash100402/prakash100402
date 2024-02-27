@@ -48,7 +48,7 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/prakash100402/prakash100402/output/snake.svg" alt="Snake animation" />
 
 ###
 
