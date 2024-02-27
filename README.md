@@ -44,6 +44,14 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prakash100402&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=prakash100402&icon=0&color=0)](https://visitcount.itsvg.in)
 
