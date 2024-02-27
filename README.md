@@ -73,6 +73,6 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 
 
 
-Thank you for checking out my profile and reading through all of that. Have a wonderful day ahead! - **Prakash**
+<h1 align="center">Thank you for checking out my profile and reading through all of that. Have a wonderful day ahead! - **Prakash** </h1>
 
 <h1 align="center"> 😌 </h1>
