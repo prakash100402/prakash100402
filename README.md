@@ -9,7 +9,7 @@ I'm a simple guy with a passion for development and design. I enjoy creating thi
 <br />
 
 # 💫 About Me:
-I started coding after high school and currently am a third-year undergraduate studying Information Technology at MCKV Institute of Engineering, looking for opportunities.<br>And I am interested in app dev than web dev, But I like both ;) <br>I am pretty positive and strong-willed and I always finish what I start.<br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music,  and watch Marvel Movies. <3
+I started coding after high school and currently am a 4th-year undergraduate studying Information Technology at MCKV Institute of Engineering, looking for opportunities.<br>And I am interested in app dev than web dev, But I like both ;) <br>I am pretty positive and strong-willed and I always finish what I start.<br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music,  and watch Marvel Movies. <3
 
 
 # 💻 Tech Stack:
