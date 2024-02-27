@@ -46,7 +46,9 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 
 ###
 
-![snake gif](https://github.com/prakash100402/prakash100402/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
