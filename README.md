@@ -36,6 +36,7 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
 
+
 # 📊 GitHub Stats:
 
 <div align="center">
