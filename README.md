@@ -65,7 +65,12 @@ I started coding after high school and currently am a 4th-year undergraduate stu
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakash100402&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=prakash100402&icon=0&color=0" alt="Visit Count">
+    </a>
+</div>
+
 
 
 Thank you for checking out my profile and reading through all of that. Have a wonderful day ahead! - **Prakash**
