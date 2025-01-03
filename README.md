@@ -29,18 +29,17 @@ Hi, I'm Prakash Kumar Sah, a creative and solution-oriented Software Developer w
   - Designed the frontend with React, focusing on user-friendly design and functionality.
   
 - Food Ordering App Clone:
- -Built a Swiggy clone using React and Redux.
- -Integrated live APIs to deliver real-time ordering features.
--Weather App:
+ - Built a Swiggy clone using React and Redux.
+ - Integrated live APIs to deliver real-time ordering features.
+- Weather App:
 
-  -Developed a weather forecasting app using Java, XML, and OpenWeather API.
-  -Features include real-time weather updates, 10-hour forecasts, and a user-friendly interface.
+  - Developed a weather forecasting app using Java, XML, and OpenWeather API.
+  - Features include real-time weather updates, 10-hour forecasts, and a user-friendly interface.
   
 🎓 Education
 - B.Tech in Information Technology
- -Institute: MCKV Institute of Engineering.
-  
- -CGPA: 8.84
+ - Institute: MCKV Institute of Engineering.
+ - CGPA: 8.84
 
 🌍 Interests & Vision
 I’m driven by a desire to create innovative solutions that address climate change and promote sustainability. I enjoy working on projects that emphasize accessibility, scalability, and data visualization, aligning with modern technological and environmental goals.
