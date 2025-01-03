@@ -12,11 +12,11 @@ I'm a simple guy with a passion for development and design. I enjoy creating thi
 Hi, I'm Prakash Kumar Sah, a creative and solution-oriented Software Developer with a passion for innovation, technology, and sustainability. I thrive on building user-centric applications and scalable solutions that make a meaningful impact.
 
 🌟 Skills & Expertise
-- Frontend Development: ReactJS, Redux, Tailwind CSS, HTML, CSS, JavaScript.
-- Backend & Databases: Firebase, AWS, SQL, DBMS.
+- Frontend Development: ReactJS, Redux, Tailwind CSS, Bootstrap CSS, HTML5, CSS3, JavaScript.
+- Backend & Databases: Firebase, AWS, MongoDB, PL/SQL, MySQL, DBMS.
 - Mobile App Development: Android (Java, XML).
-- Programming: Java, C++, Data Structures & Algorithms (DSA).
-- Tools & Frameworks: Vite, Visual Studio Code, OpenWeather API, Swiggy API.
+- Programming: Core Java, C++, Data Structures & Algorithms (DSA).
+- Tools & Frameworks: GIT, Git Hub, VS Code, Android Studio, PG Admin, Edit Plus, Anaconda, Eclips, Postman, MsOffice, Vite, OpenWeather API, Swiggy API.
   
 🚀 What I’m Working On
 - React Project: A responsive and feature-rich application using Vite, Tailwind CSS, Redux, and Firebase. Features include dynamic API integration, authentication, and dark mode/light mode.
