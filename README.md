@@ -17,23 +17,28 @@ Hi, I'm Prakash Kumar Sah, a creative and solution-oriented Software Developer w
 - Mobile App Development: Android (Java, XML).
 - Programming: Java, C++, Data Structures & Algorithms (DSA).
 - Tools & Frameworks: Vite, Visual Studio Code, OpenWeather API, Swiggy API.
+  
 🚀 What I’m Working On
 - React Project: A responsive and feature-rich application using Vite, Tailwind CSS, Redux, and Firebase. Features include dynamic API integration, authentication, and dark mode/light mode.
+  
 - Online Quiz App: An Android application with separate admin and participant functionality. Key features include user authentication, quiz management, scoring, and progress tracking.
+  
 🛠️ Projects & Achievements
 - Ticketless Entry & Crowd Management System:
-  -- Led a team to develop an Android app for QR code scanning and crowd management.
-  -- Designed the frontend with React, focusing on user-friendly design and functionality.
+  - Led a team to develop an Android app for QR code scanning and crowd management.
+  - Designed the frontend with React, focusing on user-friendly design and functionality.
 - Food Ordering App Clone:
---Built a Swiggy clone using React and Redux.
---Integrated live APIs to deliver real-time ordering features.
+ -Built a Swiggy clone using React and Redux.
+ -Integrated live APIs to deliver real-time ordering features.
 -Weather App:
---Developed a weather forecasting app using Java, XML, and OpenWeather API.
---Features include real-time weather updates, 10-hour forecasts, and a user-friendly interface.
+ -Developed a weather forecasting app using Java, XML, and OpenWeather API.
+ -Features include real-time weather updates, 10-hour forecasts, and a user-friendly interface.
+  
 🎓 Education
 B.Tech in Information Technology
 -Institute: MCKV Institute of Engineering.
 -CGPA: 8.84
+
 🌍 Interests & Vision
 I’m driven by a desire to create innovative solutions that address climate change and promote sustainability. I enjoy working on projects that emphasize accessibility, scalability, and data visualization, aligning with modern technological and environmental goals.
 
