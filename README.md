@@ -9,7 +9,33 @@ I'm a simple guy with a passion for development and design. I enjoy creating thi
 <br />
 
 # 💫 About Me:
-I started coding after high school and currently am a 2024 graduate in B.TECH (Information Technology) from MCKV Institute of Engineering, looking for opportunities.<br>And I am interested in app dev than web dev, But I like both ;) <br>I am pretty positive and strong-willed and I always finish what I start.<br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music,  and watch Marvel Movies. <3
+Hi, I'm Prakash Kumar Sah, a creative and solution-oriented Software Developer with a passion for innovation, technology, and sustainability. I thrive on building user-centric applications and scalable solutions that make a meaningful impact.
+
+🌟 Skills & Expertise
+- Frontend Development: ReactJS, Redux, Tailwind CSS, HTML, CSS, JavaScript.
+- Backend & Databases: Firebase, AWS, SQL, DBMS.
+- Mobile App Development: Android (Java, XML).
+- Programming: Java, C++, Data Structures & Algorithms (DSA).
+- Tools & Frameworks: Vite, Visual Studio Code, OpenWeather API, Swiggy API.
+🚀 What I’m Working On
+- React Project: A responsive and feature-rich application using Vite, Tailwind CSS, Redux, and Firebase. Features include dynamic API integration, authentication, and dark mode/light mode.
+- Online Quiz App: An Android application with separate admin and participant functionality. Key features include user authentication, quiz management, scoring, and progress tracking.
+🛠️ Projects & Achievements
+- Ticketless Entry & Crowd Management System:
+  -- Led a team to develop an Android app for QR code scanning and crowd management.
+  -- Designed the frontend with React, focusing on user-friendly design and functionality.
+- Food Ordering App Clone:
+--Built a Swiggy clone using React and Redux.
+--Integrated live APIs to deliver real-time ordering features.
+-Weather App:
+--Developed a weather forecasting app using Java, XML, and OpenWeather API.
+--Features include real-time weather updates, 10-hour forecasts, and a user-friendly interface.
+🎓 Education
+B.Tech in Information Technology
+-Institute: MCKV Institute of Engineering.
+-CGPA: 8.84
+🌍 Interests & Vision
+I’m driven by a desire to create innovative solutions that address climate change and promote sustainability. I enjoy working on projects that emphasize accessibility, scalability, and data visualization, aligning with modern technological and environmental goals.
 
 
 # 💻 Tech Stack:
