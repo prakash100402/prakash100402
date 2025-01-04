@@ -136,7 +136,7 @@ I’m driven by a desire to create innovative solutions that address climate cha
 
 ---
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=prakash100402&color=white)
+  <img alt="img" src="![](https://komarev.com/ghpvc/?username=prakash100402&color=blue)" />
 </div>
 
 
