@@ -135,11 +135,6 @@ I’m driven by a desire to create innovative solutions that address climate cha
 ###
 
 ---
-<div align="center">
-  <a alt="img" href="![](https://komarev.com/ghpvc/?username=prakash100402&color=blue)" ></a>
-</div>
-
-
 
 <div align="center">Thank you for checking out my profile and reading through all of that. Have a wonderful day ahead! - <strong>Prakash</strong> </div>
 
