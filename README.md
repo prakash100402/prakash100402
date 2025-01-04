@@ -16,7 +16,7 @@ Hi, I'm Prakash Kumar Sah, a creative and solution-oriented Software Developer w
 - Backend & Databases: Firebase, AWS, MongoDB, PL/SQL, MySQL, DBMS.
 - Mobile App Development: Android (Java, XML).
 - Programming: Core Java, C++, Data Structures & Algorithms (DSA).
-- Tools & Frameworks: GIT, Git Hub, VS Code, Android Studio, PG Admin, Edit Plus, Anaconda, Eclips, Postman, MsOffice, Vite, OpenWeather API, Swiggy API.
+- Tools & Frameworks: GIT, Git Hub, VS Code, Android Studio, PG Admin, Edit Plus, Anaconda, Eclips, Postman, MsOffice, Vite, OpenWeather API.
   
 🚀 What I’m Working On
 - React Project: A responsive and feature-rich application using Vite, Tailwind CSS, Redux, and Firebase. Features include dynamic API integration, authentication, and dark mode/light mode.
