@@ -120,7 +120,7 @@ I’m driven by a desire to create innovative solutions that address climate cha
     <br></div>
     <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash100402&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash100402" alt="Top Languages"></div>
 
 
 
