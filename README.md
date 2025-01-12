@@ -39,7 +39,7 @@ Hi, I'm Prakash Kumar Sah, a creative and solution-oriented Software Developer w
 🎓 Education
 - B.Tech in Information Technology
  - Institute: MCKV Institute of Engineering.
- - CGPA: 8.84
+ - CGPA: 8.96
 
 🌍 Interests & Vision
 I’m driven by a desire to create innovative solutions that address climate change and promote sustainability. I enjoy working on projects that emphasize accessibility, scalability, and data visualization, aligning with modern technological and environmental goals.
