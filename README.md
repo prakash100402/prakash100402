@@ -116,7 +116,7 @@ I’m driven by a desire to create innovative solutions that address climate cha
 <br>
     <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prakash100402&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=prakash100402" alt="GitHub Stats">
     <br></div>
     <br>
 <div align="center">
