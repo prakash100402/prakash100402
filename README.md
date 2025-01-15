@@ -111,11 +111,6 @@ I’m driven by a desire to create innovative solutions that address climate cha
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prakash100402" alt="GitHub Streak" /></a>
-</div>
-<br>
-    <br>
-<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=prakash100402" alt="GitHub Stats">
     <br></div>
     <br>
