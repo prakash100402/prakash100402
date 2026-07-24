@@ -189,7 +189,6 @@ I enjoy solving complex UI challenges, designing reusable components, integratin
 - Git & GitHub
 
 ---
----
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -218,7 +217,7 @@ I enjoy solving complex UI challenges, designing reusable components, integratin
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prakash100402/prakash100402/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/prakash100402/prakash100402/output/snake.svg" alt="Snake animation" />
 
 ###
 
