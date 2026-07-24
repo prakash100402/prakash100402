@@ -193,9 +193,11 @@ I enjoy solving complex UI challenges, designing reusable components, integratin
 # 📊 GitHub Stats:
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=prakash100402&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash100402&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash100402&theme=tokyonight"/>
+</p>
 ---
 
 # 📈 Contribution Graph
